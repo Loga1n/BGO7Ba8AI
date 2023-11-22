@@ -1,4 +1,5 @@
 通用,#genre#
+广东公共,https://ip4024712375.mobgslb.tbcache.com/tcdn.itouchtv.cn/live/gdgg.m3u8?t_token=dce11929927892793eeaeaea734c1b09-OD1N%2B14IqWPmXglQM5fTVX9jy43DA%2BRhRAa9tXUFyS5jASeBcBOtM%2BxlY83xEoyOAt3JZxX0RKnV37KFVzDG5lNZ%2BF7Uafcn3hxoHyVL%2BgkXb3O%2Be3zVMOnP1CZLqKDnrvtRMSUM4LvA0RErhwh2oBevLij0ytLn2w2ELFtDYKEzefxQuhAdgtMk5w7HUasUwlYqlk2dbPF%2FzNFHK8XvrP9JN97wrA5bc0zihTksYGXfmPGGz446BQKGi%2BfIMII%2BgMEejAkfi9VUt8qOct%2FcZu4j9DVsQIsq5CXpVBkc2ixWwRkht3Xjf0pogv4AkIlOm%2FfrDQqsB%2FZnRzjiD3HTMpE7pX8VsyKyxlltfp%2FSCggrXV5Sc8lHYCUPjamh8Q%2FZ
 广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 广东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8
 嘉佳卡通,http://183.236.13.168:808/hls/60/index.m3u8
