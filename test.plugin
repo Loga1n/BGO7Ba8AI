@@ -5,4 +5,4 @@ DOMAIN, pic1.chelaile.net.cn, REJECT
 DOMAIN, web.chelaile.net.cn, REJECT
 DOMAIN, cdn.web.chelaile.net.cn, REJECT
 [MITM]
-hostname = image3.chelaile.net.cn,pic1.chelaile.net.cn,web.chelaile.net.cn,cdn.web.chelaile.net.cn
+hostname = image3.chelaile.net.cn, pic1.chelaile.net.cn, web.chelaile.net.cn, cdn.web.chelaile.net.cn
