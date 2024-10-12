@@ -1,6 +1,4 @@
 #!name=车来了
-[Url Rewrite]
-# > 车来了
 [Rule]
 DOMAIN, image3.chelaile.net.cn, REJECT
 DOMAIN, pic1.chelaile.net.cn, REJECT
