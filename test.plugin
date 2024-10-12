@@ -4,5 +4,13 @@ DOMAIN, image3.chelaile.net.cn, REJECT
 DOMAIN, pic1.chelaile.net.cn, REJECT
 DOMAIN, web.chelaile.net.cn, REJECT
 DOMAIN, cdn.web.chelaile.net.cn, REJECT
+[Url Rewrite]
+^https?:\/\/pic1.chelaile.net.cn\/adv\/ - reject
+^https?:\/\/(api|atrace)\.chelaile\.net\.cn\/adpub\/ - reject
+^https?:\/\/api\.chelaile\.net\.cn\/goocity\/advert\/ - reject
+^https?:\/\/atrace\.chelaile\.net\.cn\/adpub\/ - reject-img
+^https?:\/\/atrace\.chelaile\.net\.cn\/exhibit\?&adv_image - reject-img
+^https?:\/\/web\.chelaile\.net\.cn\/api\/adpub\/ - reject
 [MITM]
-hostname = image3.chelaile.net.cn, pic1.chelaile.net.cn, web.chelaile.net.cn, cdn.web.chelaile.net.cn
+hostname = image3.chelaile.net.cn, pic1.chelaile.net.cn, web.chelaile.net.cn, cdn.web.chelaile.net.cn, 
+api.chelaile.net.cn, pic1.chelaile.net.cn, web.chelaile.net.cn, atrace.chelaile.net.cn
